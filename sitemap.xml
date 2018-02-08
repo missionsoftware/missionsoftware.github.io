@@ -3,27 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.missionsoftware.co.uk/thankyou/</loc>
+    <loc>//www.missionsoftware.co.uk/thankyou/</loc>
     <lastmod>2018-02-07T09:42:09+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.missionsoftware.co.uk/about/</loc>
+    <loc>//www.missionsoftware.co.uk/contact/</loc>
+    <lastmod>2018-02-06T17:26:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//www.missionsoftware.co.uk/about/</loc>
     <lastmod>2018-02-06T17:24:09+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.missionsoftware.co.uk/categories/</loc>
+    <loc>//www.missionsoftware.co.uk/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.missionsoftware.co.uk/</loc>
+    <loc>//www.missionsoftware.co.uk/</loc>
     <lastmod>2018-02-07T09:42:09+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.missionsoftware.co.uk/tags/</loc>
+    <loc>//www.missionsoftware.co.uk/tags/</loc>
     <priority>0</priority>
   </url>
   
