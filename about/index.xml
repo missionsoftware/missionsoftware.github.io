@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Mission Software</title>
-    <link>https://www.missionsoftware.co.uk/about/</link>
+    <link>http://www.missionsoftware.co.uk/about/</link>
     <description>Recent content in About on Mission Software</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 06 Feb 2018 17:24:09 +0000</lastBuildDate>
     
-	<atom:link href="https://www.missionsoftware.co.uk/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.missionsoftware.co.uk/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
