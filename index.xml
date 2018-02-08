@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>On a Mission on Mission Software</title>
+    <link>https://www.missionsoftware.co.uk/</link>
+    <description>Recent content in On a Mission on Mission Software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 07 Feb 2018 09:42:09 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.missionsoftware.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thank you</title>
+      <link>https://www.missionsoftware.co.uk/thankyou/</link>
+      <pubDate>Wed, 07 Feb 2018 09:42:09 +0000</pubDate>
+      
+      <guid>https://www.missionsoftware.co.uk/thankyou/</guid>
+      <description>Thank you for your enquiry. We will get back to you as soon as possible.</description>
+    </item>
+    
+  </channel>
+</rss>
